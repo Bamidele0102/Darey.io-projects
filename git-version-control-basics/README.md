@@ -17,55 +17,54 @@ GitHub is used as a version control system for this project.
 
 To check the version of Git installed on your system, you can use the following command in your terminal:
 
-```bash
+<!-- ```bash
 git --version
-```
-
+``` -->
 ![Git Version in the Terminal](/git-version-control-basics/images/git-version.png)
 
 ### Git Clone Command
 
 To clone a repository from GitHub, you can use the following command in your terminal:
-
+<!-- 
 ```bash
 git clone <repository-url>
-```
+``` -->
 
 ![Git Clone Command](/git-version-control-basics/images/git-clone.png)
 
 ### Git Status Command
 
 To check the status of your Git repository, you can use the following command in your terminal:
-
+<!-- 
 ```bash
 git status
-```
+``` -->
 
 ![Git Status Command](/git-version-control-basics/images/git-status.png)
 
 ### Git Add and Git Commit Commands
 
 - To stage(add) changes for commit, you can use the following command in your terminal:
-
+<!-- 
 ```bash
 git add <file-name>
-```
+``` -->
 
 - To commit the staged changes, you can use the following command in your terminal:
-
+<!-- 
 ```bash
 git commit -m "Your commit message"
-```
+``` -->
 
 ![Git Commit Command](/git-version-control-basics/images/git-add-commit.png)
 
 ### Git Push Command
 
 To push your local changes to the remote repository, you can use the following command in your terminal:
-
+<!-- 
 ```bash
 git push
-```
+``` -->
 
 ![Git Push Command](/git-version-control-basics/images/git-push.png)
 
