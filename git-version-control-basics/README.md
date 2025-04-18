@@ -9,13 +9,13 @@ in software development.
 
 ### GitHub User Dashboard Screenshot
 
-GitHub is used as a version control system for this project.
+in this project I used GitHub as a version control system for this project.
 
 ![GitHub User Dashboard Screenshot](/git-version-control-basics/images/github-dashboard.png)
 
 ### Git Version in the Terminal
 
-To check the version of Git installed on your system, you can use the following command in your terminal:
+I verifid the version of Git installed on my system, by using the following command in my terminal:
 
 <!-- ```bash
 git --version
@@ -24,7 +24,7 @@ git --version
 
 ### Git Clone Command
 
-To clone a repository from GitHub, you can use the following command in your terminal:
+I used the git clone command to clone the repository from GitHub to my local system, using the following command in my terminal:
 <!-- 
 ```bash
 git clone <repository-url>
@@ -34,7 +34,7 @@ git clone <repository-url>
 
 ### Git Status Command
 
-To check the status of your Git repository, you can use the following command in your terminal:
+I used git status command to check which files are yet to be added to the staging area in my Git repository, by using the following command in your terminal:
 <!-- 
 ```bash
 git status
@@ -44,13 +44,11 @@ git status
 
 ### Git Add and Git Commit Commands
 
-- To stage(add) changes for commit, you can use the following command in your terminal:
+After making changes to the repository, I added the file to the staging area by running git add and also took a snapshot of it by running git commit
 <!-- 
 ```bash
 git add <file-name>
 ``` -->
-
-- To commit the staged changes, you can use the following command in your terminal:
 <!-- 
 ```bash
 git commit -m "Your commit message"
@@ -60,7 +58,7 @@ git commit -m "Your commit message"
 
 ### Git Push Command
 
-To push your local changes to the remote repository, you can use the following command in your terminal:
+After commiting, I pushed the changes to my remote repository by running the command git push:
 <!-- 
 ```bash
 git push
@@ -70,7 +68,7 @@ git push
 
 ## GitHub Repository URL
 
-The GitHub repository URL for this project is:
+I created a repository with an index.html file at it's root:
 
 https://github.com/Bamidele0102/ai-start-website/blob/main/index.html
 
