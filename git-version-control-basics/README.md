@@ -72,4 +72,4 @@ git push
 ## GitHub Repository URL
 
 The GitHub repository URL for this project is:
-![GitHub Repository URL](/git-version-control-basics/images/git-url.png)
+<https://github.com/Bamidele0102/ai-start-website/blob/main/index.html>
