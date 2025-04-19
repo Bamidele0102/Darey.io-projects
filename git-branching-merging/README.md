@@ -28,7 +28,7 @@
 
 - I pulled the latest changes from the main branch.
 
-![Pull Latest Changes](./images/pull-latest-changes.png)
+![Pull Latest Changes](./images/pull-latest-changes.pn)
 
 ### Pull Request for Jerry's branch
 
@@ -48,4 +48,4 @@
 
 - I pushed the the updated branch to GitHub.
 
-![Push Changes to Jerry's Branch](./images/push-changes-jerry-branch.png)
+![Push Changes to Jerry's Branch](./images/push-changes-jerry-branch.pn)
