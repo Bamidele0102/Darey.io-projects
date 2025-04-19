@@ -30,6 +30,22 @@
 
 ![Pull Latest Changes](./images/pull-latest-changes.png)
 
-- I pushed the changes to GitHub.
+### Pull Request for Jerry's branch
+
+- I switched to Jerry's branch.
+
+![Switch to Jerry's Branch](./images/create-pull-request-jerry.png)
+
+- I created a Pull Request to merge Jerry's branch into the main branch.
+
+![Create Pull Request for Jerry's Branch](./images/create-pull-request-jerry-2.png)
+
+![Pull Request for Jerry's Branch](./images/merge-pull-request-jerry.png)
+
+### Merge Pull Request for Jerry's branch
+
+![Merge Pull Request for Jerry's Branch](./images/merge-pull-request-jerry2.png)
+
+- I pushed the the updated branch to GitHub.
 
 ![Push Changes to Jerry's Branch](./images/push-changes-jerry-branch.png)
