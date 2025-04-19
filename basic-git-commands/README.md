@@ -14,9 +14,10 @@ changes back into the main branch.
 
   - Git was installed successfully and confirmed by running `git version` in the terminal.
 
-![git-version](/Darey.io-projects/basic-git-commands/images/git-version.png)
+![git-version](/basic-git-commands/images/git-version.png)
 
 ### Step 2: Create a Git Repository
+
 A Github repository was created with the name ai-startup-website
 ![github-repo](/Darey.io-projects/basic-git-commands/images/repo-create.png)
 
