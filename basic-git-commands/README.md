@@ -17,7 +17,6 @@ changes back into the main branch.
 ![git-version](/Darey.io-projects/basic-git-commands/images/git-version.png)
 
 ### Step 2: Create a Git Repository
-
 A Github repository was created with the name ai-startup-website
 ![github-repo](/Darey.io-projects/basic-git-commands/images/repo-create.png)
 
