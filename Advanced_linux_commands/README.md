@@ -11,6 +11,7 @@ user, group, and others.
 #### How it works
 
 - Create an empty file:
+
 ![Create an empty file](./images/touch_file.png)
 
 - Check the file permissions:
